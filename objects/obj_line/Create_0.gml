@@ -1,3 +1,4 @@
+
 sprite_collision_mask(
 	sprite_index,
 	false, 
@@ -11,3 +12,4 @@ sprite_collision_mask(
 );
 
 show_info = false;
+

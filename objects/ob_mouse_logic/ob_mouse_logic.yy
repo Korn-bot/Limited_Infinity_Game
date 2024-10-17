@@ -11,8 +11,8 @@
   "name":"ob_mouse_logic",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Old code im too sad to throw away",
+    "path":"folders/Objects/Old code im too sad to throw away.yy",
   },
   "parentObjectId":null,
   "persistent":false,

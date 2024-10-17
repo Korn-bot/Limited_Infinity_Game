@@ -1,0 +1,1 @@
+draw_text(1300,160,string(global.allowed_blocks))

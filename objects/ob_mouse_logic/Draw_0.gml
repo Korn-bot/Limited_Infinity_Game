@@ -39,7 +39,7 @@ if(mouse_check_button(mb_left)){
 		);
 }
 
-
+draw_text(10,10,"Infinity Ammout : " + string(global.infinty_ammout));
 
 		
 

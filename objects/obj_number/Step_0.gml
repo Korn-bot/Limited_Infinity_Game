@@ -1,3 +1,4 @@
 
-x +=  lengthdir_x(spd,new_angle);
-y +=  lengthdir_y(spd,new_angle);
+x +=  lengthdir_x(xspd,image_angle);
+y +=  lengthdir_y(yspd,image_angle);
+

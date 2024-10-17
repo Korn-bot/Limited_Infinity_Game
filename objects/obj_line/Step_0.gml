@@ -1,6 +1,7 @@
-if(collision_circle(x, y, image_xscale, obj_mouse, true, true)){
+if(collision_circle(x, y, 30, obj_mouse, true, true)){
 	show_info = true;
 	if(mouse_check_button(mb_right)){
+		global.infinty_ammout += image_xscale;
 	instance_destroy(self);	
 	}
 }
