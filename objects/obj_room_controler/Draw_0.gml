@@ -1,1 +1,2 @@
-draw_text(1300,160,string(global.allowed_blocks))
+draw_set_font(f_main_font);
+draw_text(50,20," x " +string(global.allowed_blocks))
