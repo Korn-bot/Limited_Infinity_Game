@@ -2,6 +2,7 @@ global.in_game_menu = false;
 global.hovering_switcher = false;
 global.allowed_blocks = 0;
 global.mid_game_menu = false;
+global.Menu_set_int = 0;
 
 escape_count = 0;
 

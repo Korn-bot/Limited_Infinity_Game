@@ -18,3 +18,5 @@ if(escape_count == 0){
 if(escape_count >= 2 ){
 	escape_count = 0;
 }
+
+if(global.Menu_set_int >= 2){global.Menu_set_int = 0;};

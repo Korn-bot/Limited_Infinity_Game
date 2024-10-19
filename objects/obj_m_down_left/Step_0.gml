@@ -18,7 +18,8 @@ if(global.in_game_menu == true){
 			layer_set_visible("Menu_instance_tile",false);
 			layer_set_visible("Menu_BG",false);
 			global.in_game_menu = false;
-		}
+			global.Menu_set_int++;
+		}	
 	}
 }
 
