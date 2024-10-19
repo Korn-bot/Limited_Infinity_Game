@@ -102,6 +102,8 @@
     {"id":{"name":"Main_Player_Won","path":"rooms/Main_Player_Won/Main_Player_Won.yy",},},
     {"id":{"name":"GameLogic","path":"scripts/GameLogic/GameLogic.yy",},},
     {"id":{"name":"MathV2","path":"scripts/MathV2/MathV2.yy",},},
+    {"id":{"name":"seq_fade_slide_down","path":"sequences/seq_fade_slide_down/seq_fade_slide_down.yy",},},
+    {"id":{"name":"seq_fade_slide_up","path":"sequences/seq_fade_slide_up/seq_fade_slide_up.yy",},},
     {"id":{"name":"s_bit_hit_1","path":"sounds/s_bit_hit_1/s_bit_hit_1.yy",},},
     {"id":{"name":"s_menu_test","path":"sounds/s_menu_test/s_menu_test.yy",},},
     {"id":{"name":"s_ui_sound_effect","path":"sounds/s_ui_sound_effect/s_ui_sound_effect.yy",},},
