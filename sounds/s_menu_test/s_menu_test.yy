@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":1,
   "conversionMode":0,
-  "duration":45.718754,
+  "duration":27.428572,
   "name":"s_menu_test",
   "parent":{
     "name":"Sounds",
@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"s_menu_test.wav",
   "type":1,
-  "volume":0.6,
+  "volume":1.0,
 }

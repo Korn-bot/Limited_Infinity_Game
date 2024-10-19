@@ -8,8 +8,8 @@
   "name":"obj_rules_spawner_1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Main_menu",
-    "path":"folders/Objects/Main_menu.yy",
+    "name":"Rules",
+    "path":"folders/Objects/Main_menu/Rules.yy",
   },
   "parentObjectId":null,
   "persistent":false,
