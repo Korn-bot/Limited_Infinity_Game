@@ -2,11 +2,12 @@ if(on_mouse == true){
 	x = mouse_x;
 	y = mouse_y; 
 	
-	if(mouse_check_button_pressed(mb_left)){
+	if(mouse_check_button_pressed(mb_left)&&can_be_picked_up == false){
 		x = mouse_x;
 		y = mouse_y; 
 		on_mouse = false;
 		global.allowed_blocks -= 1;
+		alarm[0] = 30;
 	}
 }
 

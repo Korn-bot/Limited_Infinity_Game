@@ -9,4 +9,14 @@ escape_count = 0;
 if(room == game_room_1){
 global.allowed_blocks = 4;	
 }
+if(room == game_room_2){
+global.allowed_blocks = 3;	
+}
+if(room == game_room_3){
+global.allowed_blocks = 3;	
+}
+if(room == game_room_4){
+global.allowed_blocks = 5;	
+}
+
 
