@@ -1,5 +1,6 @@
 if(mouse_check_button_pressed(mb_left)){
 	global.Menu_set_int++;
+	// add sound here
 }
 
 if(global.Menu_set_int == 0){

@@ -19,5 +19,23 @@ global.allowed_blocks = 3;
 if(room == game_room_4){
 global.allowed_blocks = 5;	
 }
+if(room == game_room_5){
+global.allowed_blocks = 3;	
+}
+if(room == game_room_6){
+global.allowed_blocks = 2;	
+}
+if(room == game_room_7){
+global.allowed_blocks = 6;	
+}
+if(room == game_room_8){
+global.allowed_blocks = 2;	
+}
+if(room == game_room_9){
+global.allowed_blocks = 2;	
+}
+if(room == game_room_10){
+global.allowed_blocks = 3;	
+}
 
 

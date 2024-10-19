@@ -1,4 +1,5 @@
 if(keyboard_check_pressed(vk_escape)){
+	// add sound here that is not too annoying
 	escape_count++;
 }
 

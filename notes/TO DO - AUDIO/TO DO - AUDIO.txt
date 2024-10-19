@@ -1,0 +1,5 @@
+1 : player " Won " screen
+2 : pressing on the angle fliper selection menu
+3 : non annoying sound for picking up and placing angle flipers
+4 : for pressing escape
+5 : correct current " s_bit_hit " volume
