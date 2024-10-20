@@ -1,6 +1,7 @@
 if(keyboard_check_pressed(vk_escape)){
 	// add sound here that is not too annoying
 	escape_count++;
+	audio_play_sound(sud_menu_negative_confimration, 100, false);
 }
 
 if(escape_count == 1){

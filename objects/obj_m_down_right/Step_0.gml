@@ -3,7 +3,7 @@ if(global.in_game_menu == true){
 	if(place_meeting(x,y,obj_mouse)){
 		if(mouse_check_button_pressed(mb_left)){
 			if(global.allowed_blocks >0){
-				
+			audio_play_sound(sud_non_annoying_pick, 100, false);
 			instance_create_layer(mouse_x,mouse_y,"Instances",obj_angle_switcher,{
 			
 			angle : my_angle,

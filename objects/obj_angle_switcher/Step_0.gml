@@ -5,6 +5,7 @@ if(on_mouse == true){
 	if(mouse_check_button_pressed(mb_left)&&can_be_picked_up == false){
 		x = mouse_x;
 		y = mouse_y; 
+		audio_play_sound(sud_non_annoying_pick, 100, false);
 		on_mouse = false;
 		global.allowed_blocks -= 1;
 		alarm[0] = 30;

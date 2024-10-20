@@ -1,6 +1,6 @@
 if(mouse_check_button_pressed(mb_left)){
 	global.Menu_set_int++;
-	// add sound here
+	audio_play_sound(sud_non_annoying_pick, 100, false);
 }
 
 if(global.Menu_set_int == 0){

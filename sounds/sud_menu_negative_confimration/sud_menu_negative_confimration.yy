@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sud_menu_negative_confimration",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.714286,
+  "name":"sud_menu_negative_confimration",
+  "parent":{
+    "name":"Menu_sounds",
+    "path":"folders/Sounds/Menu_sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sud_menu_negative_confimration.wav",
+  "type":0,
+  "volume":1.0,
+}
